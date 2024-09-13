@@ -1,12 +1,12 @@
 # Comentário sobre permissões
 # Para tornar este script executável, use o comando:
-# chmod +x criar_estrutura.sh
+# chmod +x cria_estrutura.sh
 # Isso garante que o script tenha permissões de execução, permitindo que seja executado diretamente.
 
 #!/bin/bash
 
 # Navegar até a pasta do curso
-cd ~/temp/UFPEL/AULAS/Computer-Networks-Course # escifique o diretório
+cd ~/temp/UFPEL/PESQUISAS/ViTech/Videos 360/VTM_360lib # escifique o diretório
 
 # Criar os diretórios principais
 mkdir -p docs/lecture_notes docs/assignments
