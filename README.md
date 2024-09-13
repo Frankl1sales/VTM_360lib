@@ -7,6 +7,10 @@ Este projeto utiliza o software **VTM-23.4** integrado com a biblioteca **360Lib
 | :-----------------------------------------------------------------------------------------------------------------: |
 |                                 [Franklin Sales](https://github.com/Frankl1sales)                                  |
 
+| [<img src="https://avatars.githubusercontent.com/u/46406111?v=4" width="150px;"/>](https://github.com/lsuperti) |
+| :-----------------------------------------------------------------------------------------------------------------: |
+|                                 [Lucas Superti](https://github.com/lsuperti)   
+
 ## 1. Requisitos
 
 - 360Lib: [Acesse aqui](https://vcgit.hhi.fraunhofer.de/jvet/360lib)
