@@ -3,13 +3,12 @@
 Este projeto utiliza o software **VTM-23.4** integrado com a biblioteca **360Lib** para realizar codificações de vídeos em domínios esféricos. Abaixo estão os passos para preparar, compilar e executar o software.
 ## Expert
 
-| [<img src="https://avatars.githubusercontent.com/u/114530594?s=400&u=3efdade63f17708f59dc3d0e96545a108a0147ef&v=4" width="150px;"/>](https://github.com/Frankl1sales) |
-| :-----------------------------------------------------------------------------------------------------------------: |
-|                                 [Franklin Sales](https://github.com/Frankl1sales)                                  |
+## Expert
 
-| [<img src="https://avatars.githubusercontent.com/u/46406111?v=4" width="150px;"/>](https://github.com/lsuperti) |
-| :-----------------------------------------------------------------------------------------------------------------: |
-|                                 [Lucas Superti](https://github.com/lsuperti)   
+| [<img src="https://avatars.githubusercontent.com/u/114530594?s=400&u=3efdade63f17708f59dc3d0e96545a108a0147ef&v=4" width="150px;"/>](https://github.com/Frankl1sales) | [<img src="https://avatars.githubusercontent.com/u/46406111?v=4" width="150px;"/>](https://github.com/lsuperti) |
+| :-----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+|                                 [Franklin Sales](https://github.com/Frankl1sales)                                  |                                 [Lucas Superti](https://github.com/lsuperti)                                  |
+
 
 ## 1. Requisitos
 
