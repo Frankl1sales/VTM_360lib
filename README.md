@@ -1,6 +1,11 @@
 # VTM-23.4 com 360Lib Integração
 
 Este projeto utiliza o software **VTM-23.4** integrado com a biblioteca **360Lib** para realizar codificações de vídeos em domínios esféricos. Abaixo estão os passos para preparar, compilar e executar o software.
+## Expert
+
+| [<img src="https://avatars.githubusercontent.com/u/35148593?v=4" width="75px;"/>](https://github.com/rafaelperozin) |
+| :-----------------------------------------------------------------------------------------------------------------: |
+|                                 [Rafael Perozin](https://github.com/rafaelperozin)                                  |
 
 ## 1. Requisitos
 
